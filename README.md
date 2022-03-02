@@ -1,2 +1,2 @@
-## Knowledge graph embedding for linked building data analytics
-Using knowledge graph embeddings to use machine learning over linked building data
+## Knowledge graph embedding for building analytics
+Using knowledge graph embeddings to enable machine learning over linked building data
